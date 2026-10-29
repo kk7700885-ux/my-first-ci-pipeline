@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+calculator/__init__.py
+calculator/app.py
+my_first_ci_pipeline.egg-info/PKG-INFO
+my_first_ci_pipeline.egg-info/SOURCES.txt
+my_first_ci_pipeline.egg-info/dependency_links.txt
+my_first_ci_pipeline.egg-info/top_level.txt
